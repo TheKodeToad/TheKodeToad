@@ -5,7 +5,7 @@ I am a toad who likes to code. In case you are wondering, I'm not actually a toa
 I finally created this repository because I care too much about myself (and it wasn't created automatically)!
 
 Email: TheKodeToad@proton.me (I use outlook and gmail too but this is one I don't mind sharing)<br>
-Pronouns: They/Them
+Pronouns: They/Them<br>
 Fun Fact: I probably live on the same planet as you even if it doesn't always feel that way!
 
 <!--
