@@ -6,6 +6,7 @@ I finally created this repository because I care too much about myself (and it w
 
 Email: TheKodeToad@proton.me (I use outlook and gmail too but this is one I don't mind sharing)<br>
 Pronouns: They/Them
+Fun Fact: I probably live on the same planet as you even if it doesn't always feel that way!
 
 <!--
 **TheKodeToad/TheKodeToad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
