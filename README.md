@@ -10,7 +10,7 @@ Fun Fact: I probably live on the same planet as you even if it doesn't always fe
 
 # "Pinned"
 
-For some reason I decided to hide my contributions (so my profile doesn't hurt peoples eyes, and that's not a flex), and GitHub seems to hide these too.
+For some reason I decided to hide my contributions (for the purposes of minimalism), and GitHub seems to hide these too.
 
 Things that seem to be doing well:
 - https://github.com/TheKodeToad/Numeral-Ping: nearly 100k downloads
@@ -24,6 +24,7 @@ Things I've contributed a fair bit to:
 - https://github.com/AxolotlClient
 - https://github.com/DarkKronicle/KronHUD
 - https://github.com/LoomDev/Loom
+- https://github.com/glassmc
 
 <!--
 **TheKodeToad/TheKodeToad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
