@@ -10,8 +10,6 @@ Fun Fact: I probably live on the same planet as you even if it doesn't always fe
 
 # "Pinned"
 
-For some reason I decided to hide my contributions (for the purposes of minimalism), and GitHub seems to hide these too.
-
 Things that seem to be doing well:
 - https://github.com/TheKodeToad/Numeral-Ping: nearly 100k downloads
 - https://github.com/Sol-Client/Client: quite a lot of stars
